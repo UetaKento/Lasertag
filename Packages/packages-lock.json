@@ -23,6 +23,13 @@
       },
       "hash": "123957fbc104b61dbc5705a1d329ffd275357ea3"
     },
+    "com.masyo-lab.favorites-asset": {
+      "version": "https://github.com/MasyoLab/UnityTools-FavoritesAsset.git?path=Assets/MasyoLab/FavoritesAsset",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "5a7f430586af3cc81dd552a37768ba7f425ad2eb"
+    },
     "com.meta.xr.depthapi": {
       "version": "https://github.com/oculus-samples/Unity-DepthAPI.git?path=/Packages/com.meta.xr.depthapi",
       "depth": 0,
