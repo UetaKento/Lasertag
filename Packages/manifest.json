@@ -6,6 +6,7 @@
     "com.meta.xr.depthapi.urp": "https://github.com/oculus-samples/Unity-DepthAPI.git?path=/Packages/com.meta.xr.depthapi.urp",
     "com.meta.xr.sdk.core": "83.0.1",
     "com.meta.xr.sdk.haptics": "83.0.1",
+    "com.meta.xr.sdk.interaction.ovr": "85.0.0",
     "com.meta.xr.sdk.movement": "https://github.com/oculus-samples/Unity-Movement.git",
     "com.strikervr.strikersdk": "0.9.0",
     "com.unity.2d.sprite": "1.0.0",
