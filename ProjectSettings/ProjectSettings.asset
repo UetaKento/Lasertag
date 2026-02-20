@@ -72,7 +72,6 @@ PlayerSettings:
   androidStartInFullscreen: 1
   androidRenderOutsideSafeArea: 1
   androidUseSwappy: 0
-  androidDisplayOptions: 1
   androidBlitType: 1
   androidResizeableActivity: 0
   androidDefaultWindowWidth: 1920
@@ -286,7 +285,7 @@ PlayerSettings:
   AndroidEnableTango: 0
   androidEnableBanner: 1
   androidUseLowAccuracyLocation: 0
-  androidUseCustomKeystore: 1
+  androidUseCustomKeystore: 0
   m_AndroidBanners:
   - width: 320
     height: 180
@@ -731,7 +730,7 @@ PlayerSettings:
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
   useDeterministicCompilation: 0
-  additionalIl2CppArgs: 
+  additionalIl2CppArgs: --compiler-flags="     -flto=thin"
   scriptingRuntimeVersion: 1
   gcIncremental: 1
   gcWBarrierValidation: 0
