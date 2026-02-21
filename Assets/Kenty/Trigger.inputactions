@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Trigger",
+    "maps": [
+        {
+            "name": "Sample",
+            "id": "e93e74e2-d3cb-46ec-82ca-2537f560039a",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "71e3e585-99bd-4362-a4f0-d5444e57be5b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "850bb89f-722f-48ce-bdf9-f50a9a7196f5",
+                    "path": "<OculusTouchController>/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
